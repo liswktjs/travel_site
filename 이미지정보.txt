@@ -1,0 +1,14 @@
+background:
+Image by <a href="https://pixabay.com/users/Lars_Nissen-2780243/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3702676">Lars_Nissen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3702676">Pixabay</a>
+
+mongolia:
+Image by <a href="https://pixabay.com/users/KANENORI-4749850/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2154049">Please do not use my photos show people for commercial use</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2154049">Pixabay</a>
+Image by <a href="https://pixabay.com/users/jackmac34-483877/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=486866">jacqueline macou</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=486866">Pixabay</a>
+Image by <a href="https://pixabay.com/users/hbieser-343207/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2978794">hbieser</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2978794">Pixabay</a>
+
+iceland:
+Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2111811">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2111811">Pixabay</a>
+https://guidetoiceland.imgix.net/460045/x/0/3-is.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883&s=c592a70965487f9b59df4b504ff9650c
+Image by <a href="https://pixabay.com/users/nicos_fotowelt-2354795/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5104382">Nico Grütter</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5104382">Pixabay</a>
+font:
+https://fonts.google.com/specimen/Nanum+Myeongjo#standard-styles

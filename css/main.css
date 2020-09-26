@@ -1,0 +1,85 @@
+
+.body__container{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Nanum Myeongjo';
+}
+/*header*/
+.header{
+    width:100%;
+    height:10%;
+    background-color: #71C3D9;
+}
+.header .logo{
+    font-size: 50px;
+    padding:20px;
+}
+/*사이트의 전체 배경 이미지*/
+.background-img{
+    background-image: url("../images/aircraft.jpg");
+    width:100%;
+    height:80%;
+}
+/*navi */
+.menu{
+    display: inline-flex;
+    padding:8px;
+}
+
+.subtitle{
+    font-size: 20px;
+    padding:10px;   
+    background-color:lightgray;
+    margin-bottom: 20px;
+}
+.mongol_title{
+    font-size:25px;
+    background-color: #ffffff;
+}
+.mongol p{
+    background:white;
+    margin-top:20px;
+}
+.island_title{
+    font-size:25px;
+    background-color: #ffffff;
+    margin-top:20px;
+}
+.island h2{
+    background-color: white;
+}
+.island p{
+    background:white;
+    margin-top:10px;
+}
+
+.navi h2{
+    margin: 20px;
+}
+.navi p{
+    margin: 20px;
+    border: 1px dashed black;
+    font-weight: bold;
+}
+
+/*footer*/
+.footer{
+    background-color:#363c43;
+}
+
+/*크기를 줄였을 때 */
+@media (min-width: 768px){
+    .clearfix::after{
+        content:"";
+        display: block;
+        clear:both;
+    }
+    .content{
+        float:left;
+        width: 70%;
+    }
+    .navi{
+        float:left;
+        width:30%;
+    }
+}
