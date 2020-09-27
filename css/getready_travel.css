@@ -1,0 +1,9 @@
+.body__container{
+    font-family: 'Nanum Myeongjo';
+}
+.header{
+    background-color: lightskyblue;
+}
+.header .logo_title{
+    font-size:50px;
+}
